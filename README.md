@@ -214,6 +214,7 @@ Personal portfolio showcasing data analyst positioning, featured projects, techn
 |:---|:---|
 | **Google × Kaggle AI Agents Badge** | Earned by completing the 5-Day AI Agents Intensive — a competitive, application-only program |
 | **Infosys Springboard Pragati — Cohort 9** | Selected for Infosys's flagship women-in-tech upskilling program · Path to Future · Ongoing |
+| **QuizOff 2026 _ India's Biggest AI Quiz** | Participated in a national-level AI quiz organized by CampusCrew and hosted on Unstop, with 5,25,000+ students from 48,500+ institutions. |
 
 </p>
 
